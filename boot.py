@@ -21,7 +21,7 @@ os.dupterm(uart)
 wlan = WLAN()
 
 ssid     = 'TMNL-692331_EXT'
-password = '46U7HUPMD3BMR6NH'
+password = '46U7HUXXXXXXX'
 ip       = '192.168.1.47'
 net_mask = '255.255.255.0'
 gateway  = '192.168.1.1'
